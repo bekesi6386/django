@@ -81,17 +81,6 @@ DATABASES = {
     }
 }
 
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#        'NAME': 'morty',  # Or path to database file if using sqlite3.
-#        'USERNAME': 'bekes',
-#        'PASSWORD': 'Hodmezo1475369',
-#        'HOST': '127.0.0.1',
-#    }
-#}#
-
-
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
 
